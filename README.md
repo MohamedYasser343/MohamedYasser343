@@ -4,7 +4,7 @@
 
 <div display="flex">
   <img src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=blue" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=9cf" alt="Go"/>
+  <img src="https://img.shields.io/badge/go&logo=go&logoColor=9cf" alt="Go"/>
   <img src="https://img.shields.io/badge/c++-%23663399.svg?style=for-the-badge&logo=c++&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/python-%23663399.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/rust-%231572B6.svg?style=for-the-badge&logo=rust&logoColor=red" alt="Rust"/>
