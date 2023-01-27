@@ -5,9 +5,9 @@
 <div display="flex">
   <img src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=blue" alt="Flutter"/>
   <img src="https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=9cf" alt="Go"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/c++-%23663399.svg?style=for-the-badge&logo=c++&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/python?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/rust-%231572B6.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 </div>
 
 ### 🔭 I’m working on
