@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yasser</h1>
 <h3 align="center">A STEM school student who loves computer science and information technology</h3>
+<img align="right" alt="Coding" width="400" src"https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 📫 How to reach me **my9838184@gmail.com**
 
