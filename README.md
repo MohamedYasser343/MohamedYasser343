@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact **I prefer to program when listening to music 🎧**
 
+- I currently work on **rust-lang projects**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-yasser-2468aa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-yasser-2468aa2" height="30" width="40" /></a>
