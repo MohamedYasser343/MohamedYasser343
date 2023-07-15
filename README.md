@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yasser</h1>
 <h3 align="center">A STEM school student who loves Computer Science and Information Technology</h3>
 
-- 🔭 I’m currently working on **Go for Back-end**
+- 🔭 I’m currently working on **Django & React**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & Data Science**
 
-- 👬 I’m looking to collaborate on **Go-lang & Flutter Projects**
+- 👬 I’m looking to collaborate on **Django & React**
 
 - 🤝 I’m looking for help with **Rust Programming**
 
