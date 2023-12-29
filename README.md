@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yasser</h1>
-<h3 align="center">An E-JUST student who loves Computer Science and Information Technology</h3>
+<h3 align="center">An E-JUST student who learning Computer Science, Information Technology, and Cyber Security</h3>
 
-- 🔭 I’m currently working on **Flutter & Django & Firebase**
+- 🔭 I’m currently working on **Backend Engineering**
 
 - 🌱 I’m currently learning **Cyber Security and penetration testing**
 
-- 👬 I’m looking to collaborate on **Django & Flutter**
+- 👬 I’m looking to collaborate on **PHP & Flutter**
 
 - 🤝 I’m looking for help with **Rust Programming**
 
