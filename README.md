@@ -14,7 +14,6 @@ My engineering journey spans building system-level tools, secure applications, a
 
 | Category                 | Skills                                                                  |
 | ------------------------ | ----------------------------------------------------------------------- |
-| **Languages**            | C++, C, Golang, Python, JavaScript, Rust                                |
 | **Software Engineering** | OOP, Design Patterns, Algorithms & Data Structures, Clean Code, Testing |
 | **Systems Programming**  | Low-Level Programming, Memory Management, Concurrency                   |
 | **Web Development**      | REST APIs, MVC Architecture, HTML/CSS/JS, Flask                         |
@@ -23,11 +22,6 @@ My engineering journey spans building system-level tools, secure applications, a
 | **Security**             | Input Validation, Secure Coding, Vulnerability Mitigation               |
 | **Platforms**            | Linux, Windows, macOS                                                   |
 
----
-
-## 🛠️ Tools & Technologies
-
-<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" /></a> <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge&logo=nmap&logoColor=white" /></a> <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" /></a> <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" /></a> <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/-Ghidra-D42F2F?&style=for-the-badge&logo=ghidra&logoColor=white" /></a> <a href="https://gchq.github.io/CyberChef/"><img src="https://img.shields.io/badge/-CyberChef-3A3A3A?&style=for-the-badge&logo=cyberchef&logoColor=white" /></a> <a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/-Mitre%20ATT&CK-6A0DAD?&style=for-the-badge&logo=mitre&logoColor=white" /></a>
 
 ---
 
@@ -36,11 +30,14 @@ My engineering journey spans building system-level tools, secure applications, a
 * 🔍 <a href="https://github.com/MohamedYasser343/MalXplore"><b>MalXplore</b></a>
   Reverse engineering and malware inspection tool. Built with a modular architecture to analyze static and dynamic behaviors.
 
-* 🔐 <a href="https://github.com/MohamedYasser343/secret-keeper"><b>Secret Keeper</b></a>
-  A secure password manager CLI app with AES encryption, supporting multi-platform password vaults.
+* 🏪 <a href="https://github.com/MohamedYasser343/queenmanagementsystem"><b>Store Management System</b></a>
+  A web-based management system using Django, incorporating backend and frontend components.
 
-* 🌐 <a href="https://github.com/MohamedYasser343/Scan-Master"><b>Scan Master</b></a>
-  Network scanning utility written in C++ with an efficient threading model and packet-level analysis.
+* 🏫 <a href="https://github.com/MohamedYasser343/School-System"><b>School Management System</b></a>
+  Designed user-friendly interfaces for functionalities including adding buses, classes, rooms, students, etc, enhancing administrative efficiency and user experience.
+
+* 📟 <a href="https://github.com/MohamedYasser343/Temp-Hum-IoT-Project"><b>IoT Project</b></a>
+  A Flutter-based application to display real-time sensor readings, providing users with an intuitive interface for monitoring environmental conditions.
 
 ---
 
