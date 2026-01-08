@@ -1,60 +1,128 @@
-# Hello — I’m Mohamed 👋  
-**Software Engineer | Systems Integration & Delivery Consultant**
+# Mohamed Yasser
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedYasser343)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasser-2468aa205/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohamedyasser.10011)
+## Software Engineer | Systems Integration & Delivery Consultant
+
+I am a Software Engineer and Delivery Consultant with a strong foundation in computer science and hands-on experience building secure, scalable, and maintainable software systems. I work at the intersection of **engineering, systems analysis, and delivery**, translating business needs into reliable technical solutions and ensuring smooth execution from design to deployment.
+
+I study Computer Science at **Egypt-Japan University of Science and Technology (E-JUST)**, with a focus on systems programming, full-stack development, and application security.
 
 ---
 
-## About Me
-I’m a Delivery Consultant at Monglish International Academy specializing in full-stack development, systems integration, and systems analysis. I partner with stakeholders to translate business needs into technical solutions, oversee integrations across platforms, and ensure smooth delivery from design through deployment. I focus on maintainable code, delivery automation, and system reliability to help teams move faster with reduced risk.
+## Core Focus
 
-I’m also a Software Engineer studying Computer Science at Egypt-Japan University of Science & Technology (E-JUST), with a strong interest in systems programming, application security, and building secure, scalable software systems. I enjoy solving real-world problems through clean code, solid architecture, and a deep understanding of how software interacts with hardware and networks.
+* Designing and building **secure, scalable software systems**
+* Full-stack development with **React, Next.js, Laravel, and Node.js**
+* **Systems integration** across ERP, CRM, and LMS platforms
+* Translating business requirements into **BRD & PRD**
+* Improving delivery reliability through **automation and clean architecture**
 
 ---
 
 ## Technical Skills
 
-| Category | Skills |
-|--------|--------|
-| **Languages & Paradigms** | Python, C/C++, JavaScript, OOP, Design Patterns, Algorithms & Data Structures |
-| **Systems & Low-level** | Systems programming concepts, memory management, concurrency, GDB |
-| **Web & Full-stack** | REST APIs, MVC, Flask, Django, HTML/CSS/JS |
-| **Dev & CI/CD** | Git, Docker, Make, automated testing, build pipelines |
-| **Databases** | PostgreSQL, SQLite |
-| **Security** | Secure coding, input validation, vulnerability mitigation |
-| **Platforms** | Linux, Windows, macOS |
+**Frontend**
+
+* React
+* Next.js
+* HTML, CSS, JavaScript
+* Modern component-based UI development
+
+**Backend & Systems**
+
+* Node.js, Express.js
+* Laravel (PHP)
+* Python, C, C++
+* RESTful API design
+* Systems programming fundamentals
+* Memory management & concurrency
+
+**Databases**
+
+* PostgreSQL
+* SQLite
+* MySQL (with Laravel)
+
+**Dev Tools & Platforms**
+
+* Git, Docker, Make
+* GDB, VS Code
+* Linux, Windows, macOS
+
+**Security**
+
+* Secure coding practices
+* Input validation
+* Vulnerability mitigation
+* Application security fundamentals
+
+**Computer Science**
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Design Patterns
+* Software Testing
+
+---
+
+## Professional Experience
+
+**Delivery Consultant — Monglish International Academy**
+
+* Analyzed and delivered ERP, CRM, and LMS systems
+* Authored **BRD and PRD** documents
+* Led stakeholder meetings and acted as a technical point of contact
+* Coordinated with implementation companies
+* Tested systems, tracked issues, and ensured quality delivery
 
 ---
 
 ## Featured Projects
 
-- 🔍 **[MalXplore](https://github.com/MohamedYasser343/MalXplore)**  
-  Reverse engineering and malware inspection tool with a modular architecture for static and dynamic analysis.
-
-- 🏪 **[Store Management System](https://github.com/MohamedYasser343/queenmanagementsystem)**  
-  Django-based web management system with backend and frontend components.
-
-- 🏫 **[School Management System](https://github.com/MohamedYasser343/School-System)**  
-  Administrative system with user-friendly interfaces for managing buses, classes, rooms, and students.
-
-- 📟 **[Temp-Hum IoT Project](https://github.com/MohamedYasser343/Temp-Hum-IoT-Project)**  
-  Flutter application displaying real-time sensor readings for environmental monitoring.
+* 🔍 **MalXplore** — Malware analysis and reverse-engineering tool with modular static and dynamic inspection  
+* 🏪 **Store Management System** — Django-based web application for business operations  
+* 🏫 **School Management System** — Administrative system improving educational workflows  
+* 📟 **Temp-Hum IoT Project** — Flutter app for real-time environmental monitoring  
 
 ---
 
-## Education
-- **B.Sc. in Computer Science** — Egypt-Japan University of Science & Technology (E-JUST)
+## Currently Learning
+
+* Advanced system design and backend architecture
+* Secure software development & application security
+* Scalable full-stack patterns with **Next.js & Node.js**
 
 ---
 
-## Languages
-- English — Full professional proficiency  
-- Arabic — Native
+## Interests
+
+* Secure and low-level systems
+* Full-stack and backend engineering
+* Systems integration & solution architecture
+* Open-source collaboration
+* Educational technology
 
 ---
 
-## Let’s Connect
-I’m open to collaboration, open-source contributions, and practical problem-solving around systems integration and secure software engineering.  
-Feel free to reach out via LinkedIn or explore my projects here on GitHub.
+## 🌐 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MohamedYasser343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasser-2468aa205/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@mohamedyasser.10011)
+
+---
+
+## 💻 Tech Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
