@@ -1,46 +1,60 @@
-# Hello, I'm Mohamed 👨‍💻
+# Hello — I’m Mohamed 👋  
+**Software Engineer | Systems Integration & Delivery Consultant**
 
-<a href="https://www.linkedin.com/in/mohamed-yasser-2468aa205/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mohamedyasser.10011"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-
-## 👨‍💻 About Me
-
-I'm a Software Engineer with a strong foundation in computer science and a deep interest in building secure, scalable, and efficient software systems. I study Computer Science at Egypt-Japan University of Science and Technology (E-JUST), where I specialize in software development, systems programming, and application security.
-
-My engineering journey spans building system-level tools, secure applications, and full-stack solutions, often integrating cybersecurity best practices to enhance software reliability. I'm passionate about solving real-world problems through clean code, solid architecture, and a deep understanding of how software interacts with hardware and networks.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedYasser343)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasser-2468aa205/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohamedyasser.10011)
 
 ---
 
-## 🚀 Technical Skills
+## About Me
+I’m a Delivery Consultant at Monglish International Academy specializing in full-stack development, systems integration, and systems analysis. I partner with stakeholders to translate business needs into technical solutions, oversee integrations across platforms, and ensure smooth delivery from design through deployment. I focus on maintainable code, delivery automation, and system reliability to help teams move faster with reduced risk.
 
-| Category                 | Skills                                                                  |
-| ------------------------ | ----------------------------------------------------------------------- |
-| **Software Engineering** | OOP, Design Patterns, Algorithms & Data Structures, Clean Code, Testing |
-| **Systems Programming**  | Low-Level Programming, Memory Management, Concurrency                   |
-| **Web Development**      | REST APIs, MVC Architecture, HTML/CSS/JS, Flask                         |
-| **Dev Tools**            | Git, Docker, Make, GDB, VS Code                                         |
-| **Database**             | PostgreSQL, SQLite                                                      |
-| **Security**             | Input Validation, Secure Coding, Vulnerability Mitigation               |
-| **Platforms**            | Linux, Windows, macOS                                                   |
-
+I’m also a Software Engineer studying Computer Science at Egypt-Japan University of Science & Technology (E-JUST), with a strong interest in systems programming, application security, and building secure, scalable software systems. I enjoy solving real-world problems through clean code, solid architecture, and a deep understanding of how software interacts with hardware and networks.
 
 ---
 
-## 💻 Featured Projects
+## Technical Skills
 
-* 🔍 <a href="https://github.com/MohamedYasser343/MalXplore"><b>MalXplore</b></a>
-  Reverse engineering and malware inspection tool. Built with a modular architecture to analyze static and dynamic behaviors.
-
-* 🏪 <a href="https://github.com/MohamedYasser343/queenmanagementsystem"><b>Store Management System</b></a>
-  A web-based management system using Django, incorporating backend and frontend components.
-
-* 🏫 <a href="https://github.com/MohamedYasser343/School-System"><b>School Management System</b></a>
-  Designed user-friendly interfaces for functionalities including adding buses, classes, rooms, students, etc, enhancing administrative efficiency and user experience.
-
-* 📟 <a href="https://github.com/MohamedYasser343/Temp-Hum-IoT-Project"><b>IoT Project</b></a>
-  A Flutter-based application to display real-time sensor readings, providing users with an intuitive interface for monitoring environmental conditions.
+| Category | Skills |
+|--------|--------|
+| **Languages & Paradigms** | Python, C/C++, JavaScript, OOP, Design Patterns, Algorithms & Data Structures |
+| **Systems & Low-level** | Systems programming concepts, memory management, concurrency, GDB |
+| **Web & Full-stack** | REST APIs, MVC, Flask, Django, HTML/CSS/JS |
+| **Dev & CI/CD** | Git, Docker, Make, automated testing, build pipelines |
+| **Databases** | PostgreSQL, SQLite |
+| **Security** | Secure coding, input validation, vulnerability mitigation |
+| **Platforms** | Linux, Windows, macOS |
 
 ---
 
-## 📢 Let's Connect
+## Featured Projects
 
-Whether you're interested in software development, secure systems, or collaboration on open-source tools, feel free to reach out. I'm always open to learning and building impactful projects together!
+- 🔍 **[MalXplore](https://github.com/MohamedYasser343/MalXplore)**  
+  Reverse engineering and malware inspection tool with a modular architecture for static and dynamic analysis.
+
+- 🏪 **[Store Management System](https://github.com/MohamedYasser343/queenmanagementsystem)**  
+  Django-based web management system with backend and frontend components.
+
+- 🏫 **[School Management System](https://github.com/MohamedYasser343/School-System)**  
+  Administrative system with user-friendly interfaces for managing buses, classes, rooms, and students.
+
+- 📟 **[Temp-Hum IoT Project](https://github.com/MohamedYasser343/Temp-Hum-IoT-Project)**  
+  Flutter application displaying real-time sensor readings for environmental monitoring.
+
+---
+
+## Education
+- **B.Sc. in Computer Science** — Egypt-Japan University of Science & Technology (E-JUST)
+
+---
+
+## Languages
+- English — Full professional proficiency  
+- Arabic — Native
+
+---
+
+## Let’s Connect
+I’m open to collaboration, open-source contributions, and practical problem-solving around systems integration and secure software engineering.  
+Feel free to reach out via LinkedIn or explore my projects here on GitHub.
